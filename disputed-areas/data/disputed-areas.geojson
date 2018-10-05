@@ -1,0 +1,2901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.510089,
+              -17.506588
+            ],
+            [
+              -67.876343,
+              -22.833592
+            ],
+            [
+              -70.494474,
+              -23.83758
+            ],
+            [
+              -69.510089,
+              -17.506588
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Chile",
+        "ADMIN": "Chile",
+        "NAME_SORT": "Atacama corridor",
+        "TYPE": "Disputed",
+        "POP_RANK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.800346,
+              35.495406
+            ],
+            [
+              78.915948,
+              33.387656
+            ],
+            [
+              79.122229,
+              33.228903
+            ],
+            [
+              79.215247,
+              32.507914
+            ],
+            [
+              74.316989,
+              32.823067
+            ],
+            [
+              75.224544,
+              34.638622
+            ],
+            [
+              77.048971,
+              35.110442
+            ],
+            [
+              77.800346,
+              35.495406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Jammu and Kashmir",
+        "TYPE": "Disputed",
+        "POP_RANK": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.800346,
+              35.495406
+            ],
+            [
+              80.367528,
+              35.46595
+            ],
+            [
+              78.915948,
+              33.387656
+            ],
+            [
+              77.800346,
+              35.495406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "China",
+        "ADMIN": "China",
+        "NAME_SORT": "Aksai Chin",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.481204,
+              31.583141
+            ],
+            [
+              34.528259,
+              31.520144
+            ],
+            [
+              34.367339,
+              31.392814
+            ],
+            [
+              34.350905,
+              31.289254
+            ],
+            [
+              34.200269,
+              31.314267
+            ],
+            [
+              34.481204,
+              31.583141
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Israel",
+        "ADMIN": "Palestine",
+        "NAME_SORT": "Gaza Strip",
+        "TYPE": "Geo unit",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.560961,
+              32.384717
+            ],
+            [
+              35.458125,
+              31.491929
+            ],
+            [
+              34.946115,
+              32.177262
+            ],
+            [
+              35.560961,
+              32.384717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Israel",
+        "ADMIN": "Palestine",
+        "NAME_SORT": "West Bank",
+        "TYPE": "Geo unit",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.61214,
+              4.619497
+            ],
+            [
+              34.381188,
+              4.620158
+            ],
+            [
+              35.245726,
+              4.98172
+            ],
+            [
+              35.61214,
+              4.619497
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Kenya",
+        "ADMIN": "Kenya",
+        "NAME_SORT": "Ilemi Triangle",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.61214,
+              4.619497
+            ],
+            [
+              35.705846,
+              4.619447
+            ],
+            [
+              35.700365,
+              4.589111
+            ],
+            [
+              35.61214,
+              4.619497
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "South Sudan",
+        "ADMIN": "South Sudan",
+        "NAME_SORT": "South Sudan",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.048971,
+              35.110442
+            ],
+            [
+              75.224544,
+              34.638622
+            ],
+            [
+              74.124701,
+              35.099201
+            ],
+            [
+              75.981083,
+              36.445444
+            ],
+            [
+              76.777351,
+              35.646112
+            ],
+            [
+              77.048971,
+              35.110442
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Pakistan",
+        "ADMIN": "Pakistan",
+        "NAME_SORT": "Northern Areas",
+        "TYPE": "Disputed",
+        "POP_RANK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.316989,
+              32.823067
+            ],
+            [
+              74.124701,
+              35.099201
+            ],
+            [
+              75.224544,
+              34.638622
+            ],
+            [
+              74.316989,
+              32.823067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Pakistan",
+        "ADMIN": "Pakistan",
+        "NAME_SORT": "Azad Kashmir",
+        "TYPE": "Disputed",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              97.323496,
+              28.217478
+            ],
+            [
+              95.789533,
+              28.256674
+            ],
+            [
+              93.588943,
+              26.928125
+            ],
+            [
+              93.446213,
+              28.671894
+            ],
+            [
+              96.141966,
+              29.368467
+            ],
+            [
+              97.323496,
+              28.217478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Arunachal Pradesh",
+        "TYPE": "Disputed",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.8211,
+              33.406722
+            ],
+            [
+              35.75759,
+              32.744347
+            ],
+            [
+              35.624683,
+              33.272958
+            ],
+            [
+              35.654342,
+              33.262173
+            ],
+            [
+              35.716197,
+              33.326727
+            ],
+            [
+              35.8211,
+              33.406722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Israel",
+        "ADMIN": "Israel",
+        "NAME_SORT": "Golan Heights",
+        "TYPE": "Disputed",
+        "POP_RANK": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.75759,
+              32.744347
+            ],
+            [
+              35.8211,
+              33.406722
+            ],
+            [
+              35.923833,
+              32.967679
+            ],
+            [
+              35.75759,
+              32.744347
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Syria",
+        "ADMIN": "Syria",
+        "NAME_SORT": "UNDOF",
+        "TYPE": "Overlay",
+        "POP_RANK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.939112,
+              11.24913
+            ],
+            [
+              47.979169,
+              7.996567
+            ],
+            [
+              44.274262,
+              10.456732
+            ],
+            [
+              48.939112,
+              11.24913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Somaliland",
+        "ADMIN": "Somaliland",
+        "NAME_SORT": "Somaliland",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.080805,
+              3.309314
+            ],
+            [
+              -53.99533,
+              2.600592
+            ],
+            [
+              -54.15594,
+              2.318361
+            ],
+            [
+              -54.476644,
+              2.21413
+            ],
+            [
+              -54.212526,
+              2.776421
+            ],
+            [
+              -54.080805,
+              3.309314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "France",
+        "NAME_SORT": "Lawa Headwaters",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.481819,
+              1.941614
+            ],
+            [
+              -57.915711,
+              1.79493
+            ],
+            [
+              -57.174619,
+              2.818951
+            ],
+            [
+              -56.481819,
+              1.941614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Guyana",
+        "ADMIN": "Guyana",
+        "NAME_SORT": "Courantyne Headwaters",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.364919,
+              38.624335
+            ],
+            [
+              126.667459,
+              37.82781
+            ],
+            [
+              127.157489,
+              38.307224
+            ],
+            [
+              128.364919,
+              38.624335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "South Korea",
+        "ADMIN": "South Korea",
+        "NAME_SORT": "Korean Demilitarized Zone (south)",
+        "TYPE": "Overlay",
+        "POP_RANK": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.364919,
+              38.624335
+            ],
+            [
+              127.157489,
+              38.307224
+            ],
+            [
+              126.667459,
+              37.82781
+            ],
+            [
+              127.146947,
+              38.35952
+            ],
+            [
+              128.364919,
+              38.624335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "North Korea",
+        "ADMIN": "North Korea",
+        "NAME_SORT": "Korean Demilitarized Zone (north)",
+        "TYPE": "Overlay",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.817035,
+              27.661464
+            ],
+            [
+              -17.013743,
+              21.419971
+            ],
+            [
+              -13.178254,
+              27.662491
+            ],
+            [
+              -8.817035,
+              27.661464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Morocco",
+        "ADMIN": "Morocco",
+        "NAME_SORT": "Western Sahara",
+        "TYPE": "Disputed",
+        "POP_RANK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.817035,
+              27.661464
+            ],
+            [
+              -13.015247,
+              21.333428
+            ],
+            [
+              -17.013743,
+              21.419971
+            ],
+            [
+              -8.817035,
+              27.661464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Western Sahara",
+        "ADMIN": "Western Sahara",
+        "NAME_SORT": "Western Sahara",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.624683,
+              33.272958
+            ],
+            [
+              35.716197,
+              33.326727
+            ],
+            [
+              35.654342,
+              33.262173
+            ],
+            [
+              35.624683,
+              33.272958
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Israel",
+        "ADMIN": "Israel",
+        "NAME_SORT": "Shebaa Farms",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.154334,
+              43.217498
+            ],
+            [
+              41.383474,
+              42.75727
+            ],
+            [
+              40.855968,
+              43.063056
+            ],
+            [
+              42.154334,
+              43.217498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Georgia",
+        "ADMIN": "Georgia",
+        "NAME_SORT": "Abkhazia",
+        "TYPE": "Breakaway",
+        "POP_RANK": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.782526,
+              42.753213
+            ],
+            [
+              44.629296,
+              42.330053
+            ],
+            [
+              43.618712,
+              42.124872
+            ],
+            [
+              43.782526,
+              42.753213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Georgia",
+        "ADMIN": "Georgia",
+        "NAME_SORT": "South Ossetia",
+        "TYPE": "Breakaway",
+        "POP_RANK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.340728,
+              35.847357
+            ],
+            [
+              -5.378401,
+              35.881687
+            ],
+            [
+              -5.3662,
+              35.92475
+            ],
+            [
+              -5.29186,
+              35.89053
+            ],
+            [
+              -5.340728,
+              35.847357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "Ceuta",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.739854,
+              5.202138
+            ],
+            [
+              -59.755849,
+              8.410875
+            ],
+            [
+              -58.464223,
+              7.312201
+            ],
+            [
+              -58.846059,
+              5.012702
+            ],
+            [
+              -60.739854,
+              5.202138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Guyana",
+        "ADMIN": "Guyana",
+        "NAME_SORT": "West of Essequibo River",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.97924,
+              40.223592
+            ],
+            [
+              47.068707,
+              40.203634
+            ],
+            [
+              47.324417,
+              39.405877
+            ],
+            [
+              46.597858,
+              39.225075
+            ],
+            [
+              45.97924,
+              40.223592
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Azerbaijan",
+        "ADMIN": "Azerbaijan",
+        "NAME_SORT": "Nagorno-Karabakh",
+        "TYPE": "Breakaway",
+        "POP_RANK": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.981083,
+              36.445444
+            ],
+            [
+              77.519608,
+              35.477439
+            ],
+            [
+              76.777351,
+              35.646112
+            ],
+            [
+              75.981083,
+              36.445444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "China",
+        "ADMIN": "China",
+        "NAME_SORT": "Shaksam Valley",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.947825,
+              35.329779
+            ],
+            [
+              -2.912913,
+              35.276923
+            ],
+            [
+              -2.943046,
+              35.267874
+            ],
+            [
+              -2.96692,
+              35.313866
+            ],
+            [
+              -2.947825,
+              35.329779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "Melilla",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.095006,
+              19.897226
+            ],
+            [
+              -75.164378,
+              19.913719
+            ],
+            [
+              -75.101042,
+              19.95315
+            ],
+            [
+              -75.095006,
+              19.897226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Cuba",
+        "ADMIN": "US Naval Base Guantanamo Bay",
+        "NAME_SORT": "Guantanamo Bay USNB",
+        "TYPE": "Lease",
+        "POP_RANK": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.976018,
+              30.255209
+            ],
+            [
+              81.003303,
+              30.212731
+            ],
+            [
+              80.920828,
+              30.17666
+            ],
+            [
+              80.883879,
+              30.210405
+            ],
+            [
+              80.976018,
+              30.255209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Near Om Parvat",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.898826,
+              46.553129
+            ],
+            [
+              29.09381,
+              47.310343
+            ],
+            [
+              29.556573,
+              47.324038
+            ],
+            [
+              29.558691,
+              46.94574
+            ],
+            [
+              29.898826,
+              46.553129
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Moldova",
+        "ADMIN": "Moldova",
+        "NAME_SORT": "Transnistria",
+        "TYPE": "Breakaway",
+        "POP_RANK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.216645,
+              47.103258
+            ],
+            [
+              37.500591,
+              47.924864
+            ],
+            [
+              38.416944,
+              48.693286
+            ],
+            [
+              39.809177,
+              48.583754
+            ],
+            [
+              38.216645,
+              47.103258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Ukraine",
+        "ADMIN": "Ukraine",
+        "NAME_SORT": "Donbass",
+        "TYPE": "Breakaway",
+        "POP_RANK": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.358387,
+              36.141109
+            ],
+            [
+              -5.338773,
+              36.14112
+            ],
+            [
+              -5.33906,
+              36.123847
+            ],
+            [
+              -5.35025,
+              36.119289
+            ],
+            [
+              -5.358387,
+              36.141109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "Gibraltar",
+        "NAME_SORT": "Gibraltar",
+        "TYPE": "Dependency",
+        "POP_RANK": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.895072,
+              9.59541
+            ],
+            [
+              27.825309,
+              10.160053
+            ],
+            [
+              28.989476,
+              10.160053
+            ],
+            [
+              28.843841,
+              9.324545
+            ],
+            [
+              27.895072,
+              9.59541
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Sudan",
+        "ADMIN": "Sudan",
+        "NAME_SORT": "Abyei",
+        "TYPE": "Disputed",
+        "POP_RANK": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.122229,
+              33.228903
+            ],
+            [
+              79.47642,
+              32.645425
+            ],
+            [
+              79.215247,
+              32.507914
+            ],
+            [
+              79.122229,
+              33.228903
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Demchok",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.469017,
+              32.226533
+            ],
+            [
+              78.513068,
+              32.20757
+            ],
+            [
+              78.649287,
+              32.036444
+            ],
+            [
+              78.533532,
+              32.059905
+            ],
+            [
+              78.471416,
+              32.140933
+            ],
+            [
+              78.469017,
+              32.226533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Samdu Valleys",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.382593,
+              31.078335
+            ],
+            [
+              78.952317,
+              31.107611
+            ],
+            [
+              79.063318,
+              31.433638
+            ],
+            [
+              79.382593,
+              31.078335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Tirpani Valleys",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.91937,
+              30.881182
+            ],
+            [
+              80.062534,
+              30.784789
+            ],
+            [
+              80.169297,
+              30.785254
+            ],
+            [
+              80.16692,
+              30.661902
+            ],
+            [
+              80.009204,
+              30.689652
+            ],
+            [
+              79.91937,
+              30.881182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "India",
+        "ADMIN": "India",
+        "NAME_SORT": "Bara Hotii Valleys",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.906505,
+              35.069105
+            ],
+            [
+              33.679435,
+              35.033899
+            ],
+            [
+              33.400317,
+              35.197749
+            ],
+            [
+              32.711388,
+              35.181632
+            ],
+            [
+              34.035622,
+              35.471383
+            ],
+            [
+              34.012289,
+              35.063795
+            ],
+            [
+              33.906505,
+              35.069105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Northern Cyprus",
+        "ADMIN": "Northern Cyprus",
+        "NAME_SORT": "Cyprus, Northern",
+        "TYPE": "Sovereign country",
+        "POP_RANK": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.679435,
+              35.033899
+            ],
+            [
+              32.711388,
+              35.181632
+            ],
+            [
+              33.400317,
+              35.197749
+            ],
+            [
+              33.679435,
+              35.033899
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Cyprus No Mans Area",
+        "ADMIN": "Cyprus No Mans Area",
+        "NAME_SORT": "Cyprus No Mans Area",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.048971,
+              35.110442
+            ],
+            [
+              76.777351,
+              35.646112
+            ],
+            [
+              77.519608,
+              35.477439
+            ],
+            [
+              77.800346,
+              35.495406
+            ],
+            [
+              77.048971,
+              35.110442
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Kashmir",
+        "ADMIN": "Siachen Glacier",
+        "NAME_SORT": "Kashmir",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63.383914,
+              45.565824
+            ],
+            [
+              62.900274,
+              46.208964
+            ],
+            [
+              63.754899,
+              46.296658
+            ],
+            [
+              63.383914,
+              45.565824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Kazakhstan",
+        "ADMIN": "Baykonur Cosmodrome",
+        "NAME_SORT": "Baikonur Cosmodrome",
+        "TYPE": "Lease",
+        "POP_RANK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.19314,
+              16.392626
+            ],
+            [
+              -88.819353,
+              16.61356
+            ],
+            [
+              -88.515285,
+              17.344597
+            ],
+            [
+              -88.215077,
+              16.967108
+            ],
+            [
+              -88.535959,
+              16.274115
+            ],
+            [
+              -89.19314,
+              16.392626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Belize",
+        "ADMIN": "Belize",
+        "NAME_SORT": "Belize",
+        "TYPE": "Disputed",
+        "POP_RANK": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.317714,
+              38.556252
+            ],
+            [
+              -7.206558,
+              38.59217
+            ],
+            [
+              -7.196689,
+              38.518158
+            ],
+            [
+              -7.317714,
+              38.556252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "",
+        "TYPE": "Disputed",
+        "POP_RANK": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              90.475232,
+              28.072344
+            ],
+            [
+              90.31221,
+              28.15158
+            ],
+            [
+              89.900767,
+              28.18216
+            ],
+            [
+              89.862918,
+              28.295793
+            ],
+            [
+              90.261804,
+              28.335354
+            ],
+            [
+              90.587726,
+              28.233298
+            ],
+            [
+              90.475232,
+              28.072344
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Bhutan",
+        "ADMIN": "Bhutan",
+        "NAME_SORT": "Bhutan",
+        "TYPE": "Disputed",
+        "POP_RANK": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.124655,
+              27.614852
+            ],
+            [
+              89.101806,
+              27.52203
+            ],
+            [
+              88.972955,
+              27.517659
+            ],
+            [
+              89.050954,
+              27.608282
+            ],
+            [
+              89.124655,
+              27.614852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Bhutan",
+        "ADMIN": "Bhutan",
+        "NAME_SORT": "Bhutan",
+        "TYPE": "Disputed",
+        "POP_RANK": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.628517,
+              46.124935
+            ],
+            [
+              35.547374,
+              45.119696
+            ],
+            [
+              33.957856,
+              44.383002
+            ],
+            [
+              33.628517,
+              46.124935
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Russia",
+        "ADMIN": "Russia",
+        "NAME_SORT": "Crimea",
+        "TYPE": "Disputed",
+        "POP_RANK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.585134,
+              27.955146
+            ],
+            [
+              34.518077,
+              27.930406
+            ],
+            [
+              34.511892,
+              27.967475
+            ],
+            [
+              34.585134,
+              27.955146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Egypt",
+        "ADMIN": "Egypt",
+        "NAME_SORT": "Tiran and Sanafir Is.",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.751801,
+              -17.076104
+            ],
+            [
+              42.724376,
+              -17.063572
+            ],
+            [
+              42.738129,
+              -17.057306
+            ],
+            [
+              42.7588,
+              -17.060642
+            ],
+            [
+              42.751801,
+              -17.076104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "French Southern and Antarctic Lands",
+        "NAME_SORT": "Juan De Nova Island",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.200694,
+              -12.722914
+            ],
+            [
+              45.213145,
+              -12.851821
+            ],
+            [
+              45.131847,
+              -12.98919
+            ],
+            [
+              45.087169,
+              -12.759698
+            ],
+            [
+              45.200694,
+              -12.722914
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "France",
+        "NAME_SORT": "Mayotte",
+        "TYPE": "Geo unit",
+        "POP_RANK": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.46754,
+              -7.383884
+            ],
+            [
+              72.480642,
+              -7.390558
+            ],
+            [
+              72.432872,
+              -7.432224
+            ],
+            [
+              72.426931,
+              -7.403985
+            ],
+            [
+              72.432872,
+              -7.346775
+            ],
+            [
+              72.426036,
+              -7.322931
+            ],
+            [
+              72.379242,
+              -7.296808
+            ],
+            [
+              72.370942,
+              -7.270196
+            ],
+            [
+              72.432872,
+              -7.316095
+            ],
+            [
+              72.438975,
+              -7.340265
+            ],
+            [
+              72.432872,
+              -7.425388
+            ],
+            [
+              72.46754,
+              -7.383884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "British Indian Ocean Territory",
+        "NAME_SORT": "Diego Garcia Naval Support Facility",
+        "TYPE": "Overlay",
+        "POP_RANK": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.799164,
+              45.415676
+            ],
+            [
+              148.215831,
+              45.195746
+            ],
+            [
+              147.388377,
+              44.736659
+            ],
+            [
+              147.264415,
+              44.867621
+            ],
+            [
+              147.886241,
+              45.218736
+            ],
+            [
+              148.799164,
+              45.415676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Russia",
+        "ADMIN": "Russia",
+        "NAME_SORT": "Kuril Is.",
+        "TYPE": "Disputed",
+        "POP_RANK": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.33839,
+              -6.195896
+            ],
+            [
+              71.347016,
+              -6.182224
+            ],
+            [
+              71.360525,
+              -6.177341
+            ],
+            [
+              71.351085,
+              -6.200291
+            ],
+            [
+              71.33839,
+              -6.195896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "British Indian Ocean Territory",
+        "NAME_SORT": "British Indian Ocean Territory",
+        "TYPE": "Dependency",
+        "POP_RANK": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -26.259836,
+              -58.4367
+            ],
+            [
+              -26.430287,
+              -58.452407
+            ],
+            [
+              -26.430898,
+              -58.385024
+            ],
+            [
+              -26.312367,
+              -58.382094
+            ],
+            [
+              -26.259836,
+              -58.4367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "South Georgia and the Islands",
+        "NAME_SORT": "South Sandwich Islands",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.908803,
+              -54.68727
+            ],
+            [
+              -37.388092,
+              -54.147719
+            ],
+            [
+              -36.621571,
+              -54.119806
+            ],
+            [
+              -35.908803,
+              -54.68727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "South Georgia and the Islands",
+        "NAME_SORT": "South Georgia",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.816233,
+              -51.693536
+            ],
+            [
+              -58.604482,
+              -52.002048
+            ],
+            [
+              -59.084299,
+              -51.40602
+            ],
+            [
+              -57.906402,
+              -51.376642
+            ],
+            [
+              -57.816233,
+              -51.693536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "Falkland Islands",
+        "NAME_SORT": "Falkland Islands",
+        "TYPE": "Dependency",
+        "POP_RANK": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              111.196544,
+              15.775377
+            ],
+            [
+              111.199392,
+              15.789211
+            ],
+            [
+              111.20753,
+              15.782172
+            ],
+            [
+              111.196544,
+              15.775377
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "China",
+        "ADMIN": "China",
+        "NAME_SORT": "Paracel Islands",
+        "TYPE": "Geo unit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.379731,
+              -22.323907
+            ],
+            [
+              40.368663,
+              -22.362563
+            ],
+            [
+              40.331798,
+              -22.348077
+            ],
+            [
+              40.336436,
+              -22.320489
+            ],
+            [
+              40.379731,
+              -22.323907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "French Southern and Antarctic Lands",
+        "NAME_SORT": "Europa Island",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -171.072825,
+              -11.052504
+            ],
+            [
+              -171.073476,
+              -11.062107
+            ],
+            [
+              -171.081532,
+              -11.066095
+            ],
+            [
+              -171.085642,
+              -11.051365
+            ],
+            [
+              -171.072825,
+              -11.052504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United States of America",
+        "ADMIN": "American Samoa",
+        "NAME_SORT": "Swains Island",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.830577,
+              10.734605
+            ],
+            [
+              115.81837,
+              10.720852
+            ],
+            [
+              115.814626,
+              10.73432
+            ],
+            [
+              115.830577,
+              10.734605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spratly Islands",
+        "ADMIN": "Spratly Islands",
+        "NAME_SORT": "Spratly Islands",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.639882,
+              15.696031
+            ],
+            [
+              -63.639638,
+              15.702948
+            ],
+            [
+              -63.634592,
+              15.700588
+            ],
+            [
+              -63.639882,
+              15.696031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Venezuela",
+        "ADMIN": "Venezuela",
+        "NAME_SORT": "Bird Island",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.619395,
+              19.281643
+            ],
+            [
+              166.638194,
+              19.286444
+            ],
+            [
+              166.644216,
+              19.27558
+            ],
+            [
+              166.619395,
+              19.281643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United States of America",
+        "ADMIN": "United States Minor Outlying Islands",
+        "NAME_SORT": "Wake Atoll",
+        "TYPE": "Geo unit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -13.690419,
+              57.596259
+            ],
+            [
+              -13.691314,
+              57.597154
+            ],
+            [
+              -13.688588,
+              57.597805
+            ],
+            [
+              -13.688588,
+              57.596259
+            ],
+            [
+              -13.690419,
+              57.596259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United Kingdom",
+        "ADMIN": "United Kingdom",
+        "NAME_SORT": "Rockall I.",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.024322,
+              18.417263
+            ],
+            [
+              -75.006988,
+              18.415147
+            ],
+            [
+              -75.003163,
+              18.397732
+            ],
+            [
+              -75.017812,
+              18.396674
+            ],
+            [
+              -75.024322,
+              18.417263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "United States of America",
+        "ADMIN": "United States Minor Outlying Islands",
+        "NAME_SORT": "Navassa Island",
+        "TYPE": "Geo unit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.69394,
+              -21.499444
+            ],
+            [
+              39.69394,
+              -21.495212
+            ],
+            [
+              39.697358,
+              -21.497979
+            ],
+            [
+              39.69394,
+              -21.499444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "French Southern and Antarctic Lands",
+        "NAME_SORT": "Bassas da India",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.514496,
+              -15.889581
+            ],
+            [
+              54.520925,
+              -15.885186
+            ],
+            [
+              54.521332,
+              -15.894057
+            ],
+            [
+              54.514496,
+              -15.889581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "French Southern and Antarctic Lands",
+        "NAME_SORT": "Tromelin Island",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.287934,
+              -11.565525
+            ],
+            [
+              47.299571,
+              -11.550632
+            ],
+            [
+              47.306407,
+              -11.56992
+            ],
+            [
+              47.287934,
+              -11.565525
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "French Southern and Antarctic Lands",
+        "NAME_SORT": "Glorioso Islands",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.545339,
+              25.761786
+            ],
+            [
+              123.511485,
+              25.758083
+            ],
+            [
+              123.513927,
+              25.76911
+            ],
+            [
+              123.537446,
+              25.773261
+            ],
+            [
+              123.545339,
+              25.761786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Japan",
+        "ADMIN": "Japan",
+        "NAME_SORT": "Pinnacle Is.",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.048676,
+              25.885769
+            ],
+            [
+              55.032644,
+              25.854641
+            ],
+            [
+              55.012055,
+              25.881619
+            ],
+            [
+              55.048676,
+              25.885769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Iran",
+        "ADMIN": "Iran",
+        "NAME_SORT": "Abu Musa I.",
+        "TYPE": "Disputed",
+        "POP_RANK": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.844879,
+              15.787991
+            ],
+            [
+              -79.849273,
+              15.791856
+            ],
+            [
+              -79.842681,
+              15.795478
+            ],
+            [
+              -79.844879,
+              15.787991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Bajo Nuevo Bank (Petrel Is.)",
+        "ADMIN": "Bajo Nuevo Bank (Petrel Is.)",
+        "NAME_SORT": "Bajo Nuevo Bank (Petrel Is.)",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.637074,
+              15.862087
+            ],
+            [
+              -78.640411,
+              15.864
+            ],
+            [
+              -78.636871,
+              15.867296
+            ],
+            [
+              -78.637074,
+              15.862087
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Serranilla Bank",
+        "ADMIN": "Serranilla Bank",
+        "NAME_SORT": "Serranilla Bank",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.25829,
+              16.10635
+            ],
+            [
+              -88.255686,
+              16.107652
+            ],
+            [
+              -88.255483,
+              16.104397
+            ],
+            [
+              -88.25829,
+              16.10635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Belize",
+        "ADMIN": "Belize",
+        "NAME_SORT": "Belize (Sapodilla Cayes)",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.320505,
+              80.820258
+            ],
+            [
+              -66.373118,
+              80.824897
+            ],
+            [
+              -66.360463,
+              80.832831
+            ],
+            [
+              -66.310374,
+              80.829413
+            ],
+            [
+              -66.320505,
+              80.820258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Denmark",
+        "ADMIN": "Greenland",
+        "NAME_SORT": "Hans Island",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.861042,
+              37.244006
+            ],
+            [
+              131.862522,
+              37.243104
+            ],
+            [
+              131.861704,
+              37.241606
+            ],
+            [
+              131.860148,
+              37.242399
+            ],
+            [
+              131.861042,
+              37.244006
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "South Korea",
+        "ADMIN": "South Korea",
+        "NAME_SORT": "Dokdo",
+        "TYPE": "Geo subunit",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.376786,
+              0.809986
+            ],
+            [
+              9.384086,
+              0.809629
+            ],
+            [
+              9.379643,
+              0.806971
+            ],
+            [
+              9.376786,
+              0.809986
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Gabon",
+        "ADMIN": "Gabon",
+        "NAME_SORT": "Mbane Island",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.300045,
+              35.172724
+            ],
+            [
+              -4.2969,
+              35.172249
+            ],
+            [
+              -4.29773,
+              35.171537
+            ],
+            [
+              -4.300045,
+              35.172724
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.902962,
+              35.21531
+            ],
+            [
+              -3.902329,
+              35.215905
+            ],
+            [
+              -3.901957,
+              35.215464
+            ],
+            [
+              -3.902533,
+              35.214787
+            ],
+            [
+              -3.902962,
+              35.21531
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.434243,
+              35.18523
+            ],
+            [
+              -2.426502,
+              35.182114
+            ],
+            [
+              -2.431414,
+              35.178766
+            ],
+            [
+              -2.434243,
+              35.18523
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.418774,
+              35.915597
+            ],
+            [
+              -5.41597,
+              35.913531
+            ],
+            [
+              -5.417888,
+              35.910874
+            ],
+            [
+              -5.42084,
+              35.914269
+            ],
+            [
+              -5.418774,
+              35.915597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Spain",
+        "ADMIN": "Spain",
+        "NAME_SORT": "",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.056442,
+              -22.394635
+            ],
+            [
+              172.059339,
+              -22.397795
+            ],
+            [
+              172.057232,
+              -22.400165
+            ],
+            [
+              172.054335,
+              -22.397268
+            ],
+            [
+              172.056442,
+              -22.394635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "France",
+        "ADMIN": "New Caledonia",
+        "NAME_SORT": "New Caledonia",
+        "TYPE": "Disputed",
+        "POP_RANK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.753887,
+              15.154369
+            ],
+            [
+              117.755692,
+              15.151887
+            ],
+            [
+              117.753887,
+              15.150082
+            ],
+            [
+              117.751856,
+              15.151887
+            ],
+            [
+              117.753887,
+              15.154369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "SOVEREIGNT": "Scarborough Reef",
+        "ADMIN": "Scarborough Reef",
+        "NAME_SORT": "",
+        "TYPE": "Indeterminate",
+        "POP_RANK": 1
+      }
+    }
+  ]
+}

@@ -4,22 +4,69 @@
     <meta charset="UTF-8">
     <script src="https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js"></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css" rel="stylesheet" />
+    <link href="https://www.mapbox.com/base/latest/base.css" rel="stylesheet">
     <link href="css/base.css" rel="stylesheet" />
+    <link href="css/areas.css" rel="stylesheet" />
 
     <title>Cognitive Map Based Visualization Tool</title>
 </head>
 <body>
     <div id="map"></div>
+    <div id='sidebar' class='pin-left col3 pad2 dark fill-navy'>
+
+        <h1>Disputed Areas</h1>
+
+        <p>This is a visual display of the disputed areas globally. All the data is <a href="http://www.naturalearthdata.com/downloads/10m-cultural-vectors">open</a>.</p>
+
+        <div data-map='legend'>
+
+            <h5>Affected Areas <a href="#" class="truncate strong small" onclick='mapLocate("reset");'>
+                (reset)
+            </a></h5>
+
+            <div class="space-bottom1">
+                <ul>
+                    <li>
+                        <a href="#" data-map-layer-highlight='red' data-map-layer='road-street' class="truncate strong bloxk small" onclick='mapLocate("india")'>
+                            India
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="truncate strong bloxk small" onclick='mapLocate("chile");'>
+                            Chile
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="truncate strong bloxk small" onclick='mapLocate("china");'>
+                            China
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="truncate strong bloxk small" onclick='mapLocate("palestine-gs");'>
+                            Palestine-Gaza Strip
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="truncate strong bloxk small" onclick='mapLocate("palestine-wb");'>
+                            Palestine-West Bank
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div>
     <div class="map-overlay" id="features">
-        <h2>Disputed Areas</h2>
         <div id="pd">
-            <p>Hover over the States</p>
+            <h2>Hover over the States</h2>
         </div>
     </div>
-    <div class="map-overlay" id="legend"></div>
 
     <script src="js/config.js"></script>
     <script src="js/areas.js"></script>
+    <script src="js/mapbox-gl-js-common.js"></script>
+    <script src="js/data/mapLocations.js"></script>
 
 </body>
 </html>
